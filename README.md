@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @M-Aka-Moha
 
-Owner GSA Series
+Owner GSA Series Team
+Developper
